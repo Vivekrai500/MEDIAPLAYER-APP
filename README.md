@@ -1,4 +1,16 @@
-# MusicPlayer
+# MUSICPLAYER-APP
+
+"COMPANY" : CODTECH IT SOLUTIONS
+
+"NAME" : VIVEK KUMAR RAI
+
+"INTERN ID" : CT06DK725
+
+"DOMAIN" : ANDROID DEVELOPMENT
+
+"DURATION" : 6 WEEKS
+
+"MENTOR" : NEELA SANTOSH
 
 
 **A Simple Yet Feature-Rich Music Player Application based on Native MediaPlayer.**
